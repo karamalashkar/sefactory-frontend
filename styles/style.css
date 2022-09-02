@@ -9,7 +9,7 @@
     height: 100%;
     left: 50;
     right: 50;
-    background-position: center;
+    background-position: ;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -98,5 +98,36 @@ img{
     background-color: #00D100;
     color: white;
     font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.flex{
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.item{
+    padding: 4% 6%;
+    justify-content: center;
+}
+
+.item h1{
+    text-align: center;
+    color: #00D100;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.item label{
+    margin-top: 2%;
+}
+
+.item p{
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+    width: 100%;
     font-weight: 700;
 }
