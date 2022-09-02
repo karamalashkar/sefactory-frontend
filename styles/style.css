@@ -5,7 +5,7 @@
 
 .first{
     width: 100%;
-    height: 100%;
+    height: 105%;
     left: 50;
     right: 50;
     background-position: ;
@@ -168,4 +168,39 @@ img{
     color: #00D100;
     font-size: 20px;
     font-family: sans-serif;
+}
+
+.other{
+    background-color: #00D100;
+    width: 100%;
+    height: auto;
+}
+
+.other p{
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+.pppp{
+    font-weight: 600;
+}
+
+.ff{
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.fff img{
+    width: 70%;
+    height: 100%;
+}
+
+.left{
+    padding-left: 22%;
 }
