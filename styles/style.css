@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    text-decoration: none;
 }
 
 .first{
@@ -130,4 +129,43 @@ img{
     text-align: center;
     width: 100%;
     font-weight: 700;
+}
+
+.new{
+    padding-top: 5%;
+    display: flex;
+}
+
+.n{
+    padding: 0 3%;
+    width: 100%;
+}
+
+.n img{
+    width: 110%;
+    height: 90%;
+}
+
+.n h1{
+    font-family: sans-serif;
+    font-size: 55px;
+    text-align: left;
+}
+
+.pp{
+    font-weight: 200;
+}
+
+
+.ppp{
+    padding: 5% 5%;
+    font-size: 28px;
+    font-family: sans-serif;
+} 
+
+.n a{
+    padding-left: 5%;
+    color: #00D100;
+    font-size: 20px;
+    font-family: sans-serif;
 }
